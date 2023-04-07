@@ -1,8 +1,8 @@
 {
-    "url": "https://x/test.yaml",
+    "url": "https://raw.githubusercontent.com/animout/xss_test/main/test.yaml",
     "urls": [
         {
-            "url": "https://x/test.yaml",
+            "url": "https://raw.githubusercontent.com/animout/xss_test/main/test.yaml",
             "name": "Foo"
         }
     ]
