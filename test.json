@@ -1,0 +1,9 @@
+{
+    "url": "https://x/test.yaml",
+    "urls": [
+        {
+            "url": "https://x/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
